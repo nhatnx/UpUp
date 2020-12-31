@@ -1,5 +1,5 @@
 ### UpUp - Kickstarting the Offline First Revolution
-<a href="https://www.talater.com/upup/"><img align="right" src="demo/img/upup-readme.gif" alt="Offline First with UpUp"></a>
+<a href="https://www.talater.com/upup/"><img align="right" src="https://github.com/TalAter/UpUp/raw/master/demo/img/upup-readme.gif" alt="Offline First with UpUp"></a>
 
 UpUp is a tiny JavaScript library that makes sure your users can always access your site's content, even when they're on a plane, in an elevator, or 20,000 leagues under the sea.
 
@@ -8,7 +8,7 @@ Mobile-First has become the de-facto standard for building modern sites. But in 
 With UpUp you control the content your users see, even when they are offline. And you can do it with just a single JavaScript command.
 
 ### Demo & Tutorial
-The easiest path to understanding, is to see [UpUp in action, and try a quick tutorial](https://www.talater.com/upup/).
+The easiest path to understanding is to see [UpUp in action and try a quick tutorial](https://www.talater.com/upup/).
 
 ### Hello World
 Getting started with UpUp is as easy as adding two JavaScript files to your site, [upup.min.js](https://raw.githubusercontent.com/TalAter/UpUp/master/dist/upup.min.js) & [upup.sw.min.js](https://raw.githubusercontent.com/TalAter/UpUp/master/dist/upup.sw.min.js), and defining the content you want your users to see when they are offline.
